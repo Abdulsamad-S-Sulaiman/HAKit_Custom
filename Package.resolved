@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/mxcl/PromiseKit",
         "state": {
           "branch": null,
-          "revision": "aea48ea1855f5d82e2dffa6027afce3aab8f3dd7",
-          "version": "6.13.3"
+          "revision": "8a98e31a47854d3180882c8068cc4d9381bf382d",
+          "version": "6.22.1"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/daltoniam/Starscream",
         "state": {
           "branch": null,
-          "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
-          "version": "4.0.4"
+          "revision": "ac6c0fc9da221873e01bd1a0d4818498a71eef33",
+          "version": "4.0.6"
         }
       }
     ]
