@@ -1,5 +1,7 @@
 import Foundation
 
+// test test test test
+
 /// Delegate of the connection
 public protocol HAConnectionDelegate: AnyObject {
     /// The connection state has changed
