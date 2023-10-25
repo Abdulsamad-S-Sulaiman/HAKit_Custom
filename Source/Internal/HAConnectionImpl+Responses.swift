@@ -1,5 +1,5 @@
 import Starscream
-
+// test
 extension HAConnectionImpl: Starscream.WebSocketDelegate {
     func didReceive(event: WebSocketEvent, client: WebSocket) {
         responseController.didReceive(event: event)
